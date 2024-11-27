@@ -10,13 +10,13 @@ console.log("I think that something that worked well for me over the last 9 week
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("Something that I would change about the course is attending everyday instead of once a week");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("I think so, It was my first doing Javascript so I wasn't really expecting anything specific.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
@@ -24,4 +24,4 @@ console.log("");
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("Everything was new to me, I never encountered Javascript or anything related to coding in the past.");
